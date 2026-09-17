@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "url": "https://github.com/ElianWBG/taskmanagerapp-updates/releases/latest/download/TaskManagerApp-Setup.exe",
-  "notas": "La app ya viene lista para avisarte de nuevas versiones sin configurar nada."
+  "notas": "Las alertas de tareas se revisan cada 30 segundos y tambien justo al crear o editar una tarea, asi el aviso sale a tiempo."
 }
