@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://github.com/ElianWBG/taskmanagerapp-updates/releases/latest/download/TaskManagerApp-Setup.exe",
-  "notas": "Novedad: la barra de título de las ventanas ahora combina con el color de la app (Windows 11)."
+  "notas": "La app ya viene lista para avisarte de nuevas versiones sin configurar nada."
 }
