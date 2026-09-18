@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "url": "https://github.com/ElianWBG/taskmanagerapp-updates/releases/latest/download/TaskManagerApp-Setup.exe",
-  "notas": "Nueva interfaz principal unificada: una sola ventana con pestanas (Mis tareas / Nueva tarea / Ajustes). Al crear tareas se refresca la lista al instante y guardar ajustes ya no cierra la ventana."
+  "notas": "Corregido el aviso de actualizaciones: el archivo version.json ya se lee correctamente sin importar mayusculas/minusculas en las claves."
 }
